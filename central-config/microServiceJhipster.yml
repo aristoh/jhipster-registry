@@ -1,1 +1,2 @@
-wellcome-message: Hello TOHOUN SESSINOU
+application:
+  wellcome-message: Hello TOHOUN SESSINOU
