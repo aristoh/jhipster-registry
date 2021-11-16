@@ -24,6 +24,3 @@ jhipster:
 logging:
   path: /tmp
   file: ${spring.application.name}.log
-
-application:
-  message: Hello TOHOUN
